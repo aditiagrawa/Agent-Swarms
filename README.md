@@ -45,7 +45,7 @@ swarm/
 
 ### Prerequisites
 - Node.js 18+
-- An Anthropic API key (get one at https://console.anthropic.com)
+
 
 ### 1. Backend Setup
 
